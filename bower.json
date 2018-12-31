@@ -1,0 +1,28 @@
+{
+  "name": "Olha EU",//material-dashboard-react
+  "homepage": "https://github.com/dbrinqs/olhaeu", //"https://github.com/creativetimofficial/material-dashboard-react",
+  "authors": [
+    "Vivian Nigri",//"creative-tim"
+  ],
+  "description": "De olho na educação infantil.",
+  "main": "public/index.html",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "material",
+    "design",
+    "google",
+    "twitter"
+  ],
+  "license": "Creative TIM License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ],
+  "private": true
+}
